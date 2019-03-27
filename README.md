@@ -1,6 +1,9 @@
 # Eleme
 基于Vue@2+vue-cli@2的高仿饿了么移动端项目
 
+## 页面效果
+![商品详情页](./resource/README/detail.png "模型预览")
+
 ## 项目开发清单
 
 - [x] 页面开发情况
