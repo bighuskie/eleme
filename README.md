@@ -2,7 +2,7 @@
 基于Vue@2+vue-cli@2的高仿饿了么移动端项目
 
 ## 页面效果
-1. **商品详情页**
+ **1. 商品详情页**
 
 ![商品详情页](./resource/README/detail.png "模型预览")
 
@@ -12,7 +12,7 @@
 
 ![商家详情页](./resource/README/shop.png "商家详情页")
 
-2. **个人中心页**
+**2. 个人中心页**
 
 ![个人中心页](./resource/README/person.png "个人中心页")
 
