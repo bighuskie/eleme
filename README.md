@@ -10,6 +10,8 @@
 
 ![商品评论页](./resource/README/rate.png "商品评论页")
 
+![商家详情页](./resource/README/shop.png "商家详情页")
+
 ## 项目开发清单
 
 - [x] 页面开发情况
@@ -21,5 +23,3 @@
 - [ ] 待完成各页面之间逻辑交互
 
 
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
