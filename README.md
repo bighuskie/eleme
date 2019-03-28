@@ -3,6 +3,7 @@
 
 ## 页面效果
 1. 商品详情页
+
 ![商品详情页](./resource/README/detail.png "模型预览")
 
 ![商品详情页](./resource/README/shopDetail.png "模型预览")
