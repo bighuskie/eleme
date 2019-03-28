@@ -12,6 +12,9 @@
 
 ![商家详情页](./resource/README/shop.png "商家详情页")
 
+2. 个人中心页
+![个人中心页](./resource/README/person.png "个人中心页")
+
 ## 项目开发清单
 
 - [x] 页面开发情况
