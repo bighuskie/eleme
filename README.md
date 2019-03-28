@@ -6,9 +6,9 @@
 
 ![商品详情页](./resource/README/detail.png "模型预览")
 
-![商品详情页](./resource/README/shopDetail.png "模型预览")
+![商品详情页](./resource/README/shopDetail.png "商品详情页")
 
-![商品详情页](./resource/README/detail.png "模型预览")
+![商品评论页](./resource/README/rate.png "商品评论页")
 
 ## 项目开发清单
 
